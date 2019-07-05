@@ -13,12 +13,9 @@
     "test": "tape test/*.js",
     "lint": "standard"
   },
-  "keywords": [
-  ],
-  "dependencies": {},
-  "devDependencies": {
-    "tape": "~4.6.2",
-    "standard": "~10.0.0"
+  "keywords": [],
+  "dependencies": {
+    "kappa-view": "^3.0.0"
   },
   "license": "ISC"
 }
