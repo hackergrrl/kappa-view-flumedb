@@ -9,10 +9,6 @@
   "homepage": "https://github.com/noffle/kappa-view-flumedb",
   "bugs": "https://github.com/noffle/kappa-view-flumedb/issues",
   "main": "index.js",
-  "scripts": {
-    "test": "tape test/*.js",
-    "lint": "standard"
-  },
   "keywords": [],
   "dependencies": {
     "kappa-view": "^3.0.0"
